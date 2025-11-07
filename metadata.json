@@ -1,0 +1,5 @@
+{
+  "name": "AI Car Staging",
+  "description": "Upload car photos and use AI to automatically stage them in different professional environments like showrooms, mountains, or coastal roads.",
+  "requestFramePermissions": []
+}
